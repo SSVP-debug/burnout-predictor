@@ -7,7 +7,7 @@ import pandas as pd
 model = joblib.load("Mini-pjt.pkl")
 
 
-st.title("🔥 Burnout Risk Predictor")
+st.title("Burnout Risk Predictor")
 st.write("An AI-powered demo for HRs & CEOs to simulate employee burnout risk.")
 
 # Input sliders
