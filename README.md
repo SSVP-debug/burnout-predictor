@@ -3,7 +3,7 @@ Check your level of burnout risk with this predictor.
 🔥 Burnout Risk Predictor (Future of Workplace Well-being)
 
 “A healthy team is a high-performing team.”
-This project helps organizations predict employee burnout risk before it happens — using data, machine learning, and a human touch.
+This project helps organizations predict employee burnout risk before it happens using data, machine learning, and a human touch.
 
  What This Project Does
 
@@ -17,7 +17,7 @@ It’s a well-being assistant for the future of work:
  Why It Matters in 2025 and Beyond
 
  Burnout costs the global economy ~$1 trillion annually in lost productivity.
-Traditional surveys catch it too late. This predictor gives early signals — helping companies build healthier, happier teams.
+Traditional surveys catch it too late. This predictor gives early signals helping companies build healthier, happier teams.
 
 Imagine being a CEO or HR:
 
@@ -75,14 +75,14 @@ Personalized wellness recommendations (not just predictions)
 
 Dashboard for managers to track trends without invading privacy
 
-🤝 Contributing
+ Contributing
 
 Pull requests welcome. Got an idea to improve workplace well-being with AI? Let’s co-build the future.
 
  Author
 
-👩‍💻 Shiva Shankara Vara Prasad – Explorer of AI x Human Well-being
-📫 Reach out for collaborations or ideas.
+ Shiva Shankara Vara Prasad – Explorer of AI x Human Well-being
+ Reach out for collaborations or ideas.
 
  This project is not just code. It’s a statement:
 “We can use AI not just to optimize clicks or sales… but to protect the most important asset — people.” ❤️
